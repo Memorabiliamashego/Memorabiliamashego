@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Memorabiliamashego
+- 👋 Hi, I’m Mpho Mashego
 - 👀 I’m interested in Software Development, CyberSec, Pentesting.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open-source projects to grow my Python knowledge
