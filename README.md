@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mpho Mashego
-- 👀 I’m interested in Software Development, CyberSec, Pentesting.
+- 👀 I’m interested in Software Development & CyberSec.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open-source projects to grow my Python knowledge
 - 📫 How to reach me @i_mphomashego (twitter) , memorabiliamshego@gmail.com (Gmail)
