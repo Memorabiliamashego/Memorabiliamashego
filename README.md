@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mpho Mashego
-- 👀 I’m interested in Software Development & CyberSec.
-- 🌱 I’m currently learning Python while constantly sharpening my frontend skills
-- 💞️ I’m looking to collaborate on Open-source projects to grow my Python knowledge
+- 👀 I’m interested in all things CyberSec.
+- 🌱 I’m currently doing something completely unrelated to tech but also learning Malicious Crytography with my spare time.
+- 💞️ Right now , im focusing on what's hand until further notice. But also looking to get mentored in how to live a double life as a programmer
 - 📫 How to reach me @i_mphomashego (twitter) , memorabiliamshego@gmail.com (Gmail)
 
 <!---
